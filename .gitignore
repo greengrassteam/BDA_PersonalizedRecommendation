@@ -5,3 +5,4 @@ data/netflix_train.txt
 data/users.txt
 data/user_train.csv
 data/user_test.csv
+data/user_sim.csv
