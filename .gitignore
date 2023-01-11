@@ -3,3 +3,4 @@ data/movie_titles.txt
 data/netflix_test.txt
 data/netflix_train.txt
 data/users.txt
+data/user_train.csv
